@@ -1,0 +1,632 @@
+[
+  {
+    "_id": "58e008ad0aac31001185ed0c",
+    "text": "The frequency of a domestic cat's purr is the same at which muscles and bones repair themselves.",
+    "type": "cat",
+    "user": {
+      "_id": "58e007480aac31001185ecef",
+      "name": {
+        "first": "Kasimir",
+        "last": "Schulz"
+      }
+    },
+    "upvotes": "11",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5b4911940508220014ccfe94",
+    "text": "\"By the time a cat is 9 years oldit will only have been awake for three years of its life.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "7",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5b1b411d841d9700146158d9",
+    "text": "\"The Egyptian Mau\u00e2\u20ac\u2122s name is derived from the Middle Egyptian word mjwwhich means cat. But contrary to its nameit\u00e2\u20ac\u2122s unclear whether the modern Egyptian Mau actually originated in Egypt.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "6",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5b4912c60508220014ccfe99",
+    "text": "\"Cats aren\u00e2\u20ac\u2122t the only animals that purr \u00e2\u20ac\u201d squirrelslemurselephantsand even gorillas purr too.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "6",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59a60b8e6acf530020f3586e",
+    "text": "Cat owners are 17% more likely to have a graduate degree than non cat owners.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "6",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5b199196ce456e001424256a",
+    "text": "Cats can distinguish different flavors in water.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "6",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "591d9b2f227c1a0020d26823",
+    "text": "\"Every yearnearly four million cats are eaten in China as a delicacy.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "5",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "599f89639a11040c4a163440",
+    "text": "Here is a video of some cats in zero gravity. youtu.be/O9XtK6R1QAk",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "5",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59951d5ef2db18002031693c",
+    "text": "\"America\u00e2\u20ac\u2122s catsincluding housecats that adventure outdoors and feral catskill between 1.3 billion and 4.0 billion birds in a year.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5b01a447c6914f0014cc9a30",
+    "text": "The special sensory organ called the Jacobson's organ allows a cat to have 14 times the sense of smell of a human. It consists of two fluid-filled sacs that connect to the cat's nasal cavity and is located on the roof of their mouth behind their teeth.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "58e008800aac31001185ed07",
+    "text": "\"Wikipedia has a recording of a cat meowingbecause why not?\"",
+    "type": "cat",
+    "user": {
+      "_id": "58e007480aac31001185ecef",
+      "name": {
+        "first": "Kasimir",
+        "last": "Schulz"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5b1b4055841d9700146158d3",
+    "text": "Scottish sailer Alexander Selkirk once survived for 4 years on a deserted island thanks to feral cats that protected him from large rats during the night.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "58e007db0aac31001185ecf7",
+    "text": "There are cats who have survived falls from over 32 stories (320 meters) onto concrete.",
+    "type": "cat",
+    "user": {
+      "_id": "58e007480aac31001185ecef",
+      "name": {
+        "first": "Kasimir",
+        "last": "Schulz"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59a60ba66acf530020f35873",
+    "text": "Most cats don't like water because their coats do not insulate them well enough.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5a4d76916ef087002174c28b",
+    "text": "\"A cat\u00e2\u20ac\u2122s nose pad is ridged with a unique patternjust like the fingerprint of a human.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "58e009790aac31001185ed14",
+    "text": "\"The technical term for \"\"hairball\"\" is \"\"bezoar.\"\"\"",
+    "type": "cat",
+    "user": {
+      "_id": "58e007480aac31001185ecef",
+      "name": {
+        "first": "Kasimir",
+        "last": "Schulz"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "58e00a090aac31001185ed16",
+    "text": "Cats make more than 100 different sounds whereas dogs make around 10.",
+    "type": "cat",
+    "user": {
+      "_id": "58e007480aac31001185ecef",
+      "name": {
+        "first": "Kasimir",
+        "last": "Schulz"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "58e00a120aac31001185ed17",
+    "text": "A cat's brain is 90% similar to a human's \u00e2\u20ac\u201d more similar than to a dog's.",
+    "type": "cat",
+    "user": {
+      "_id": "58e007480aac31001185ecef",
+      "name": {
+        "first": "Kasimir",
+        "last": "Schulz"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5974fb4dfedacb0020b5b4cc",
+    "text": "Cats can survive falls from up to 65 feet or more.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5b1b4014841d9700146158d0",
+    "text": "\"In 1879Belgium unsuccessfully tried to use cats to deliver mail.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "4",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "590c752b5363e000200d5141",
+    "text": "Kangaroos can't hop backwards",
+    "type": "cat",
+    "user": {
+      "_id": "590c74045363e000200d5140",
+      "name": {
+        "first": "Hampton",
+        "last": "McGrath"
+      }
+    },
+    "upvotes": "3",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5b3bd7d24cf4e10014bfd199",
+    "text": "\"The myth that a cat has nine lives comes from their ability to jump and land from high places. The number 9 is believed by some to originate from William Shakespeare's Romeo and Juliet: \"\"A cat has nine lives. For three he playsfor three he straysand for the last three he stays.\"\"\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "3",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5a4aab322c99ee00219e11c5",
+    "text": "\"Cats have free-floating clavicle bones that attach their shoulders to their forelimbswhich allows them to squeeze through very small spaces.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5a4bfcd3b0810f0021748b93",
+    "text": "\"Colonel Meowa Himalayan-Persian mix who became famous on social media websites for his extremely long fur and scowling faceholds the Guinness world record for longest hair on a cat (nine inches).\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5a4bfdf8b0810f0021748b94",
+    "text": "\"Towser \"\"The Mouser\"\" of Glenturret Distillery in CrieffScotlandholds the Guinness World Record for the most mice caught (28899).\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5a4d75a38827521790281b99",
+    "text": "\"A cat can\u00e2\u20ac\u2122t climb head first down a tree because every claw on a cat\u00e2\u20ac\u2122s paw points the same way. To get down from a treea cat must back down.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5c475ca8a99c3f00140fe4d0",
+    "text": "\"Loyalplayfuland alertManx are considered to be more \"\"doglike\"\" than other cats.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5c609758e54902001453302c",
+    "text": "\"According to the American Society for the Prevention of Cruelty of Animalsnewborn kittens get all the nutrition they need duing the first four weeks of life fom their mother's milk. If you are taking care of a kitten without its motheror if the mother isn't producing enough milkyou can feed the kitten a commercial milk substitute.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5c609776e54902001453302d",
+    "text": "\"When kittens ages to weeks five and sixthey should start making the transition to dry food.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5c6097eee549020014533030",
+    "text": "Legend holds that the Chartreux once lived alongside the Carthusian monks of France.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5d38b1290f1c57001592f12a",
+    "text": "\"Bobtail cats owe their shortened tails to a natural genetic mutation that has appeared in cats across time and in various regions of the world. The American Bobtail can be traced back to Yodia cat with the mutation that was found in Arizona in the 1960s. Yodi passed the genetic quirk on to his kittensthus creating a new breed.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5d38b6f10f1c57001592f136",
+    "text": "\"Traveling with cats can be stressful for everyone involved. Whether you're taking a kitty to the vetor on a road tripor on a flightthere are things you can do to help her stay relaxed in the carrier. Pet shops sell calming treats and sprays that can reduce a cat's anxiety. It might also help to put a beloved toy or a blanket in the carrier.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5d9c556168a764001553b382",
+    "text": "\"A cat has 244 bones in its entire body\u00e2\u20ac\u201deven more than a humanwho only has 206 bones.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5d84ce8abf541a0015b5febb",
+      "name": {
+        "first": "Veronika",
+        "last": "Koval"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59669484bf604b00205c20e3",
+    "text": "\"The fear of cats is called \"\"Ailurophobia\"\"\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59a60b896acf530020f3586d",
+    "text": "Cat owners are 25% likely to pick George Harrison as their favorite Beatle.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59a60b936acf530020f3586f",
+    "text": "\"Only 11.5% of people consider themselves \"\"cat people\"\".\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59a60b996acf530020f35870",
+    "text": "\"\"\"Cat people\"\" are 11% more likely to be introverted than others.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59b15b18d6eb960020d6767a",
+    "text": "The place where Julius Caesar was murdered is now a cat sanctuary.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59ceab6d5c87bf0020b94e0a",
+    "text": "The Bombay cat breed was developed to resemble a miniature panther.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "59d297abc6671e0020957eb8",
+    "text": "Cats use their whiskers to judge whether they\u00e2\u20ac\u2122ll fit through a space.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "1",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5d38be370f1c57001592f158",
+    "text": "Kittens typically begin to engage in playful behavior at around four weeks of age.",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "0",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5d38bb440f1c57001592f14c",
+    "text": "\"It's important for cats to have regular ear exams\u00e2\u20ac\u201dthis is something you can do at home! Gently fold back the ears and look into the ear canal. The inner ear should be pale pink with little to no earwax. If you notice rednessswellingdischargeor a lot of earwaxit's time to see a veterinarian.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5a9ac18c7478810ea6c06381",
+      "name": {
+        "first": "Alex",
+        "last": "Wohlbruck"
+      }
+    },
+    "upvotes": "0",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5e4c4e10a38ae60015b04a7e",
+    "text": "\"Cats think humans have night vision tooso when we step on their tail in the middle of the nightthey think it's on purpose.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5e4c4dc5a38ae60015b04a7d",
+      "name": {
+        "first": "Nathaniel J",
+        "last": "McDermott"
+      }
+    },
+    "upvotes": "0",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5e546a054e83e80015a0e320",
+    "text": "\"Contrary to popular beliefsome cats actually don't mind water. The hairless Sphynx cat enjoys itespecially if it is warm.\"",
+    "type": "cat",
+    "user": {
+      "_id": "5e54675a4e83e80015a0e313",
+      "name": {
+        "first": "L'hibou",
+        "last": "Ambigu"
+      }
+    },
+    "upvotes": "0",
+    "userUpvoted": "null"
+  },
+  {
+    "_id": "5e66bb2967112d00157b0d7c",
+    "text": "Cca.",
+    "type": "cat",
+    "user": {
+      "_id": "5e66bb1367112d00157b0d7b",
+      "name": {
+        "first": "Ivan",
+        "last": "Mercedes"
+      }
+    },
+    "upvotes": "0",
+    "userUpvoted": "null"
+  }
+]
